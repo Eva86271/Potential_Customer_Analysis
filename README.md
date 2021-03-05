@@ -4,6 +4,6 @@ The data was studied and analysed over the domain knowledge. After which,the dat
 The data was explored and behaviour was analysed to give the insights of the data. A list of potential customers were predicted over the new customers.
 ## Data Exploration
 <p>Distribution of Customer Count over States</p>
-![state count](https://github.com/Eva86271/Potential_Customer_Analysis/blob/main/Potential_Customer_Analysis/Image_Predict/output_26_1.png)
+https://github.com/Eva86271/Potential_Customer_Analysis/blob/main/Potential_Customer_Analysis/Image_Predict/output_26_1.png
 <p>Distribution of Customer over Involvement in Industry</p>
-![Job Industry](https://github.com/Eva86271/Potential_Customer_Analysis/blob/main/Potential_Customer_Analysis/Image_Predict/output_27_1.png)
+https://github.com/Eva86271/Potential_Customer_Analysis/blob/main/Potential_Customer_Analysis/Image_Predict/output_27_1.png
